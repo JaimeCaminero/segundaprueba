@@ -1,1 +1,2 @@
 Esto es lo que pone en el archivo de texto
+En realidad git es bastante útil
